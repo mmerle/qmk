@@ -1,1 +1,3 @@
 SRC += muse.c
+UNICODE_ENABLE = yes
+CAPS_WORD_ENABLE = yes
